@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "scan-qr-code-4aaa0"
-  }
+    "default": "scan-qr-code-4aaa0",
+    "staging": "mobile-scan-a70a5"
+  },
+  "targets": {},
+  "etags": {}
 }
